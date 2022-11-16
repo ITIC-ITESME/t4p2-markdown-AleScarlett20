@@ -3,3 +3,6 @@
 ´´´
 $git init
 ´´´
+- [ ] Terminar mi serie
+- [ ] Terminar el curso
+- [ ] Hacer los reportes 
